@@ -459,7 +459,7 @@ if submitted:
         ax.spines['left'].set_visible(False)
         ax.grid(axis='x', linestyle='--', alpha=0.3)
 
-        st.pyplot(fig, use_container_width=True)
+        st.pyplot(fig,  width="stretch")
 
     except Exception:
         st.info("Feature importance is not available for this model.")
