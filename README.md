@@ -21,7 +21,7 @@ Customer churn is a critical business problem for telecom companies because losi
 ![Main dashboard](assets/dashboard.png)
 
 ### Prediction Results
-![Prediction results](assets/results.png)
+![Prediction results](assets/result.png)
 
 ## Tech Stack
 
